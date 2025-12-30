@@ -1,0 +1,17 @@
+{
+  "signal_id": "uuid",
+  "timestamp": "ISO8601",
+  "raw_input": "string",
+  "layer_outputs": {
+    "literal": "string",
+    "semantic_vector": [0.0],
+    "abstract": "string"
+  },
+  "stability_status": "validated | reprocess",
+  "temporal_spike": true,
+  "packaging": {
+    "format": "json | markdown",
+    "destination": "CMS | Marketplace | Action Trigger"
+  },
+  "deployed": false
+}
